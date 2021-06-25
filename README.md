@@ -1,6 +1,6 @@
-### Hey! 🐉
+## Hey! 🐉
 
-#### I'm Guido Dipietro, [speedcuber](https://www.worldcubeassociation.org/persons/2013DIPI01) and student of Information Systems Engineering based in Buenos Aires.
+### I'm Guido Dipietro, [speedcuber](https://www.worldcubeassociation.org/persons/2013DIPI01) and student of Information Systems Engineering based in Buenos Aires.
 
 As to programming, I mostly code in C just for fun, or in Python if I actually want to get something done.  
 
