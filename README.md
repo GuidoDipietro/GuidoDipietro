@@ -19,6 +19,7 @@ I also enjoy learning _human_ languages and facts about countries. Hopefully I'l
 - 🤹‍♀️ [Julia Rubik's Cube Model](https://github.com/GuidoDipietro/julia-small-rubiks-cube-model) - Model of a 2x2x2 Rubik's Cube in elegant Julia code
 - 🥇 [FMC Ranks](https://github.com/GuidoDipietro/FMCranks) - Tool to automate an Excel sheet creation from raw text data
 - ⚔️ [Language Battle](https://github.com/GuidoDipietro/doomsday-battle) - Languages compete with each other to see who's the best
+- 🩸 [Operating Systems Assignment](https://github.com/GuidoDipietro/TP-SO-2021) - A 5-person 80-day assignment, carried out only by 2. It turned out really well. (Spanish warning)
 
 ### Spanish speaker? ¿Hablás español?
 
