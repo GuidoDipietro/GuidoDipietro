@@ -12,7 +12,7 @@ I also enjoy learning _human_ languages and facts about countries. Hopefully I'l
 
 ### Some projects for you to check out!
 
-<!-- - 🦎 [GeckoLang](https://github.com/GuidoDipietro/geckolang) - Programming language with a REPL designed to get calculations done quickly -->
+- 🦎 [GeckoLang](https://github.com/GuidoDipietro/geckolang) - Programming language with a REPL designed to get calculations done quickly
 - 🧊 [Rubik's Cube Solution Checker Spreadsheet](https://github.com/GuidoDipietro/solution-checker-gsheets) - Google Spreadsheet that can do **magical** stuff using my REST API
 - 🤖 ["Beto" the Discord Bot](https://github.com/GuidoDipietro/beto-bot) - Bot that helps me out in Discord when everybody is asleep
 - 🎨 [Python art](https://github.com/GuidoDipietro/python_art) - A collection of gorgeous mathematically appealing pictures
