@@ -2,9 +2,7 @@
 
 ## I'm Guido Dipietro, [speedcuber](https://www.worldcubeassociation.org/persons/2013DIPI01) and student of Information Systems Engineering based in Buenos Aires.
 
-As to programming, I mostly code in C just for fun, or in Python if I actually want to get something done.  
-
-I've been learning about full-stack web development as well, and have a decent grasp of HTML/CSS/js kinda stuff. I've given Vue and React a shot, as well as Django, but I'm yet to build something interesting with it.  
+As to programming, I mostly code in C just for fun, or in Python if I actually want to get something done.   
 
 I am really curious about programming languages and how they're structured, and have a special appeal towards [esotericism](https://github.com/GuidoDipietro/taoprintf-project).  
 
