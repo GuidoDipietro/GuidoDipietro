@@ -3,6 +3,7 @@
 ## I'm Guido Dipietro, [speedcuber](https://www.worldcubeassociation.org/persons/2013DIPI01) and student of Information Systems Engineering based in Buenos Aires.
 
 As to programming, I mostly code in C just for fun, or in Python if I actually want to get something done.   
+Currently, I work as a blockchain developer. Been doing stuff in Ethereum, Algorand, and Solana.  
 
 I am really curious about programming languages and how they're structured, and have a special appeal towards [esotericism](https://github.com/GuidoDipietro/taoprintf-project).  
 
