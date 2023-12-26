@@ -1,6 +1,6 @@
 # Hey! 🐉 I'm Guido Dipietro
 
-### [Speedcuber](https://www.worldcubeassociation.org/persons/2013DIPI01) and student of Information Systems Engineering based in Buenos Aires.
+### [Speedcuber](https://www.worldcubeassociation.org/persons/2013DIPI01) and Information Systems Engineer based in Buenos Aires.
 
 Currently building on Solana, experienced in Algorand and Ethereum too.  
 
